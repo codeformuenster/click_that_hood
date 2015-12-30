@@ -1,6 +1,13 @@
-[![Build Status](https://travis-ci.org/codeforamerica/click_that_hood.png?branch=master)](click_that_hood)
+---
+status: done
+uri: http://click-that-hood.com/muenster
+---
+
+
 
 # Click That 'Hood
+
+![click-that-hood-screenshot](https://cloud.githubusercontent.com/assets/6351193/12057435/3de813c6-af41-11e5-973a-f07bacaddb5b.jpg)
 
 ## Development Setup
 
